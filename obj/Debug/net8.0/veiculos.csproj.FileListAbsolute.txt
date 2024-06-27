@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\bin\Debug\net8.0\veiculos.exe
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\bin\Debug\net8.0\veiculos.deps.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\bin\Debug\net8.0\veiculos.runtimeconfig.json
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\bin\Debug\net8.0\veiculos.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\bin\Debug\net8.0\veiculos.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\veiculos.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\veiculos.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\refint\veiculos.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\veiculos.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\veiculos.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\veiculos\obj\Debug\net8.0\ref\veiculos.dll
